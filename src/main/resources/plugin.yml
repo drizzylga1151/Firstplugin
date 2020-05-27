@@ -1,0 +1,7 @@
+name: Firstplugin
+version: ${project.version}
+main: xyz.bluuuez.firstplugin.Firstplugin
+api-version: 1.13
+authors: [blu]
+description: My first plugin
+website: bluuuez.xyz

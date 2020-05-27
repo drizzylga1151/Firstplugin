@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d74132ef-8c86-4a52-b573-303d63445eda" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Firstplugin" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cSUqwygsaIL5Gtg8mn7Gukmv00" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Firstplugon build" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d74132ef-8c86-4a52-b573-303d63445eda" name="Default Changelist" comment="" />
+      <created>1590521682756</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590521682756</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="201" key="#Project_Structure" timestamp="1590521738221">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="201" key="#Project_Structure/1920.-432.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1590521738221" />
+    <state width="1876" height="340" key="GridCell.Tab.0.bottom" timestamp="1590547773223">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="340" key="GridCell.Tab.0.bottom/1920.-432.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1590547773223" />
+    <state width="1033" height="295" key="GridCell.Tab.0.bottom/1920.-432.1080.1920/0.0.1920.1080@1920.-432.1080.1920" timestamp="1590530433565" />
+    <state width="1876" height="340" key="GridCell.Tab.0.center" timestamp="1590547773223">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="340" key="GridCell.Tab.0.center/1920.-432.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1590547773223" />
+    <state width="1033" height="295" key="GridCell.Tab.0.center/1920.-432.1080.1920/0.0.1920.1080@1920.-432.1080.1920" timestamp="1590530433564" />
+    <state width="1876" height="340" key="GridCell.Tab.0.left" timestamp="1590547773222">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="340" key="GridCell.Tab.0.left/1920.-432.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1590547773222" />
+    <state width="1033" height="295" key="GridCell.Tab.0.left/1920.-432.1080.1920/0.0.1920.1080@1920.-432.1080.1920" timestamp="1590530433564" />
+    <state width="1876" height="340" key="GridCell.Tab.0.right" timestamp="1590547773223">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="340" key="GridCell.Tab.0.right/1920.-432.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1590547773223" />
+    <state width="1033" height="295" key="GridCell.Tab.0.right/1920.-432.1080.1920/0.0.1920.1080@1920.-432.1080.1920" timestamp="1590530433565" />
+    <state x="463" y="185" key="SettingsEditor" timestamp="1590522051280">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="463" y="185" key="SettingsEditor/1920.-432.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1590522051280" />
+    <state x="2296" y="220" key="com.intellij.ide.util.TipDialog" timestamp="1590546285431">
+      <screen x="1920" y="-432" width="1080" height="1920" />
+    </state>
+    <state x="668" y="367" key="com.intellij.ide.util.TipDialog/1920.-432.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1590522082125" />
+    <state x="2296" y="220" key="com.intellij.ide.util.TipDialog/1920.-432.1080.1920/0.0.1920.1080@1920.-432.1080.1920" timestamp="1590546285431" />
+    <state x="2122" y="-222" width="672" height="678" key="search.everywhere.popup" timestamp="1590522817768">
+      <screen x="1920" y="-432" width="1080" height="1920" />
+    </state>
+    <state x="2122" y="-222" width="672" height="678" key="search.everywhere.popup/1920.-432.1080.1920/0.0.1920.1080@1920.-432.1080.1920" timestamp="1590522817768" />
+  </component>
+</project>
