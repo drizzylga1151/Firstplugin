@@ -30,12 +30,6 @@ public class PlayerEvents implements Listener {
     @EventHandler void onDropItem(PlayerDropItemEvent event){
 
         Player player = event.getPlayer();
-        Item item = event.getItemDrop();
-        String itemName = item.getName();
-        System.out.println(item);
-
-        if (itemName == "TNT") {
-            player.setHealth(0);
-        }
+        player.setHealth(0);
     }
 }
