@@ -1,8 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d74132ef-8c86-4a52-b573-303d63445eda" name="Default Changelist" comment="">
+    <list default="true" id="d74132ef-8c86-4a52-b573-303d63445eda" name="Default Changelist" comment="Edited PlayerEvents.java">
+      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/xyz/bluuuez/firstplugin/commands/Heal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/xyz/bluuuez/firstplugin/commands/Suicide.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/xyz/bluuuez/firstplugin/Firstplugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/xyz/bluuuez/firstplugin/Firstplugin.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/xyz/bluuuez/firstplugin/events/PlayerEvents.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/xyz/bluuuez/firstplugin/events/PlayerEvents.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/xyz/bluuuez/firstplugin/Firstplugin.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/xyz/bluuuez/firstplugin/Firstplugin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/xyz/bluuuez/firstplugin/events/PlayerEvents.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/xyz/bluuuez/firstplugin/events/PlayerEvents.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/firstplugin-1.0-SNAPSHOT-shaded.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/firstplugin-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/firstplugin-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/original-firstplugin-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/original-firstplugin-1.0-SNAPSHOT.jar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,11 +51,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager">
     <configuration name="Firstplugon build" type="MavenRunConfiguration" factoryName="Maven">
@@ -82,45 +97,62 @@
       <option name="presentableId" value="Default" />
       <updated>1590521682756</updated>
     </task>
+    <task id="LOCAL-00001" summary="Edited PlayerEvents.java">
+      <created>1590548460620</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590548460620</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Edited PlayerEvents.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Edited PlayerEvents.java" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="201" key="#Project_Structure" timestamp="1590521738221">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="552" y="201" key="#Project_Structure/1920.-432.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1590521738221" />
-    <state width="1876" height="340" key="GridCell.Tab.0.bottom" timestamp="1590547773223">
+    <state x="580" y="138" key="CommitChangelistDialog2" timestamp="1590551341710">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1876" height="340" key="GridCell.Tab.0.bottom/1920.-432.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1590547773223" />
+    <state x="580" y="138" key="CommitChangelistDialog2/1920.-432.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1590551341710" />
+    <state width="1876" height="340" key="GridCell.Tab.0.bottom" timestamp="1590551341801">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="340" key="GridCell.Tab.0.bottom/1920.-432.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1590551341801" />
     <state width="1033" height="295" key="GridCell.Tab.0.bottom/1920.-432.1080.1920/0.0.1920.1080@1920.-432.1080.1920" timestamp="1590530433565" />
-    <state width="1876" height="340" key="GridCell.Tab.0.center" timestamp="1590547773223">
+    <state width="1876" height="340" key="GridCell.Tab.0.center" timestamp="1590551341801">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1876" height="340" key="GridCell.Tab.0.center/1920.-432.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1590547773223" />
+    <state width="1876" height="340" key="GridCell.Tab.0.center/1920.-432.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1590551341801" />
     <state width="1033" height="295" key="GridCell.Tab.0.center/1920.-432.1080.1920/0.0.1920.1080@1920.-432.1080.1920" timestamp="1590530433564" />
-    <state width="1876" height="340" key="GridCell.Tab.0.left" timestamp="1590547773222">
+    <state width="1876" height="340" key="GridCell.Tab.0.left" timestamp="1590551341801">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1876" height="340" key="GridCell.Tab.0.left/1920.-432.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1590547773222" />
+    <state width="1876" height="340" key="GridCell.Tab.0.left/1920.-432.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1590551341801" />
     <state width="1033" height="295" key="GridCell.Tab.0.left/1920.-432.1080.1920/0.0.1920.1080@1920.-432.1080.1920" timestamp="1590530433564" />
-    <state width="1876" height="340" key="GridCell.Tab.0.right" timestamp="1590547773223">
+    <state width="1876" height="340" key="GridCell.Tab.0.right" timestamp="1590551341801">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1876" height="340" key="GridCell.Tab.0.right/1920.-432.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1590547773223" />
+    <state width="1876" height="340" key="GridCell.Tab.0.right/1920.-432.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1590551341801" />
     <state width="1033" height="295" key="GridCell.Tab.0.right/1920.-432.1080.1920/0.0.1920.1080@1920.-432.1080.1920" timestamp="1590530433565" />
-    <state x="463" y="185" key="SettingsEditor" timestamp="1590548421567">
+    <state x="463" y="185" key="SettingsEditor" timestamp="1590548490193">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="463" y="185" key="SettingsEditor/1920.-432.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1590548421567" />
+    <state x="463" y="185" key="SettingsEditor/1920.-432.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1590548490193" />
     <state x="2296" y="220" key="com.intellij.ide.util.TipDialog" timestamp="1590546285431">
       <screen x="1920" y="-432" width="1080" height="1920" />
     </state>
     <state x="668" y="367" key="com.intellij.ide.util.TipDialog/1920.-432.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1590522082125" />
     <state x="2296" y="220" key="com.intellij.ide.util.TipDialog/1920.-432.1080.1920/0.0.1920.1080@1920.-432.1080.1920" timestamp="1590546285431" />
-    <state x="2122" y="-222" width="672" height="678" key="search.everywhere.popup" timestamp="1590522817768">
-      <screen x="1920" y="-432" width="1080" height="1920" />
+    <state x="359" y="118" width="1195" height="382" key="search.everywhere.popup" timestamp="1590549138163">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
+    <state x="359" y="118" width="1195" height="382" key="search.everywhere.popup/1920.-432.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1590549138163" />
     <state x="2122" y="-222" width="672" height="678" key="search.everywhere.popup/1920.-432.1080.1920/0.0.1920.1080@1920.-432.1080.1920" timestamp="1590522817768" />
   </component>
 </project>

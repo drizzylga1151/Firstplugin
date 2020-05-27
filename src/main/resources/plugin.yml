@@ -5,3 +5,8 @@ api-version: 1.13
 authors: [blu]
 description: My first plugin
 website: bluuuez.xyz
+commands:
+  suicide:
+    description: kys
+  heal:
+    description: stop it, get some health

@@ -30,6 +30,6 @@ public class PlayerEvents implements Listener {
     @EventHandler void onDropItem(PlayerDropItemEvent event){
 
         Player player = event.getPlayer();
-        player.setHealth(0);
+        event.setCancelled(true);
     }
 }
